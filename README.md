@@ -1,0 +1,2 @@
+# JavaScript
+JavaScriptTraining Tasks
